@@ -25,3 +25,9 @@ Goal for this week: run my first automated check. it is okay to go slow.
  feeling: exhausted, need a break, but I want to get the git problem to work today, after a short break 
 
  8. December 2025: Day 
+
+[9 December 2025] - DAY # VICTORY!
+- Learned proper test structure with assertions
+- Debugged indentation issue: if __name__ must be outside functions
+- Key insight: Python execution flow depeds on proper indentation
+- feeling: Empowered by solving complex issues
