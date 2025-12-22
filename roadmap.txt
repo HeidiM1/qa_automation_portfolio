@@ -1,0 +1,9 @@
+My Automation journey:
+Week 1: Prove that I can write test logic in Python
+Week 2: Make test interact with a real website
+Week 3: Build a small project
+Week 4: Polish and share
+
+Month 2: learn mobile testing
+Month 3: build complete portfolio
+Month 4: job search begins. 

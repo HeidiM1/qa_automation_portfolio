@@ -1,0 +1,27 @@
+1 December 2025: 
+Goal for this week: run my first automated check. it is okay to go slow.
+
+1. Dec 25: Day 1 complete:
+ - Updated my LInkedIn headline to show I am learning automation
+ - Created automation learning folder and learning log
+ - Confirmed Python is installed and working
+ - Finished in 10 minutes, faster than expected
+ - feeling: this is too easy, I fear I will give up when it becomes hard. but I am proud that I have started. 
+ - created the day1_extra file, with 3 examples of QA mindset checks.
+ -Created roadmap textfile with journey details
+
+
+ 2. december: Day 2 complete:
+ - Created day2_qa_logic with 3 test scenarios
+ - translated manual test cases to automated day2_qa_logic
+ - Learned: now all " are created equal, use comments instead if it breaks the code
+ - Learned: spaces really matter, things outside the function will look wierd. How things show up, is dependent on how to is set up
+ - Learned: I like it when things run smoothly, that's when I really get to work making things beautiful. 
+ - Modified: got the test scenario 1 to look correct, but adding more spaces and setting it up cvorrectly. 
+ - I ran each scenaroi indivially, instead of copy-paste-run
+ - I modified the users, ion all the correct places, and could run it without problems
+ - Learned: used a 25 minute timer, listend to my brains next signal
+ Modification is a code skill in automation, I can read, understand and change test code
+ feeling: exhausted, need a break, but I want to get the git problem to work today, after a short break 
+
+ 8. December 2025: Day 
