@@ -31,3 +31,11 @@ Goal for this week: run my first automated check. it is okay to go slow.
 - Debugged indentation issue: if __name__ must be outside functions
 - Key insight: Python execution flow depeds on proper indentation
 - feeling: Empowered by solving complex issues
+
+10 December 2025 - DAY 4 victory!
+ - set up pytest with virtual environment
+ - typed test_with_fixtures, parameters  and markers
+ - debugged = vs == syntax error (valuable learning)
+ - fixed pytest.ini indentation issue
+ - tests passes cleanly with professinal pytest output
+ - feeling: confident with test organisation,  and pytest features 
