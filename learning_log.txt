@@ -39,3 +39,9 @@ Goal for this week: run my first automated check. it is okay to go slow.
  - fixed pytest.ini indentation issue
  - tests passes cleanly with professinal pytest output
  - feeling: confident with test organisation,  and pytest features 
+
+5 jan 26: Returning after the break
+-took holiday and recovery time
+-feeling rusty bur ready
+goal today: gentle restart, no pressure
+
