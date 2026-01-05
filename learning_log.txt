@@ -45,3 +45,22 @@ Goal for this week: run my first automated check. it is okay to go slow.
 -feeling rusty bur ready
 goal today: gentle restart, no pressure
 
+
+[$(date)] - PLAYWRIGHT LEARNING DAY
+- Successfully installed Playwright and browsers
+- Hit real-world challenge: Google CAPTCHA detection (normal!)
+- Switched to demo sites for friction-free learning
+- Created test_demo_site.py - automated login/logout flow
+- Test passed on first try with The Internet HeroKuApp
+- Realization: Copy-paste vs typing dilemma identified
+- Need to transition to typing code myself
+- Stopped when brain started skipping instructions (smart!)
+- Pushed all work to GitHub for backup
+
+Key insights:
+1. Real sites (Google) have bot protection - normal
+2. Demo sites are better for learning fundamentals
+3. Need to consciously practice typing vs copying
+4. Recognizing mental fatigue is a skill
+
+Tomorrow's goal: Type one small test from scratch.
