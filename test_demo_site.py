@@ -25,6 +25,7 @@ def test_login_form():
         # Fill login form
         page.fill("#username", "tomsmith")
         page.fill("#password", "SuperSecretPassword!")
+        print("testing with correct credentials")
         
         # Click login
         page.click("button[type='submit']")
@@ -34,6 +35,7 @@ def test_login_form():
         
         # Verify success message
         success_text = page.locator("#flash").inner_text()
+        print(f"DEBUG: Actual text received: '{success_text}'")
         assert "You logged into a secure area!" in success_text
         
         page.screenshot(path="demo_login_success.png")
@@ -55,6 +57,18 @@ def test_login_form():
         
         print("\n✅ COMPLETE: Login/logout flow automated successfully")
         return True
+    
+        #Custom verification: Check page title
+        page_title = page_title()
+        print(f"Page Title after login: {page_title}")
+        assert "Secure Area" in page_title
 
+
+        #Custom verification: Check URL contains "secure"
+        current_url = page_url
+        print(f"Current URL: {current_url}")
+        assert "secure" in current_url
+
+        
 if __name__ == "__main__":
     test_login_form()
